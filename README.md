@@ -196,6 +196,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | DigitalOcean Status | Status of all DigitalOcean services | No | Yes | Unknown | [Go!](https://status.digitalocean.com/api/v1) |
 | DomainDb Info | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown | [Go!](https://domainsdb.info/apidomainsdb/index.php) |
 | Faceplusplus | A tool to detect face | `OAuth` | Yes | Unknown | [Go!](https://www.faceplusplus.com/) |
+| Form2Channel | Free service to receive html form submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary | No | Yes | Yes | [Go!](https://form2channel.com/) |
 | Genderize.io | Determines a gender from a first name | No | Yes | Unknown | [Go!](https://genderize.io) |
 | Github | Information for a user's Github profile | No | Yes | Unknown | [Go!](https://developer.github.com/v3/) |
 | Gitter | Chat for GitHub | `OAuth` | Yes | Unknown | [Go!](https://github.com/gitterHQ/docs) |
@@ -218,6 +219,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Scrape Website Email | Grabs email addresses from a URL | `X-Mashape-Key` | Yes | Unknown | [Go!](https://market.mashape.com/tommytcchan/scrape-website-email) |
 | SHOUTCLOUD | ALL-CAPS AS A SERVICE | No | No | Unknown | [Go!](http://shoutcloud.io/) |
 | StackExchange | Q&A forum for developers | `OAuth` | Yes | Unknown | [Go!](https://api.stackexchange.com/) |
+| Unixtime | Free API to convert Unixtime to DateTime and vice versa. | No | Yes | Yes | [Go!](https://unixtime.co.za/) |
 | Verse | Check what's the latest version of your favorite open-source project | No | Yes | Unknown | [Go!](https://verse.pawelad.xyz/) |
 | XML to JSON | Integration developer utility APIs | No | Yes | Unknown | [Go!](https://developers.wso2apistore.com/) |
 
